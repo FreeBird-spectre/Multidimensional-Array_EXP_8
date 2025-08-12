@@ -34,3 +34,18 @@ int main() {
 
     return 0;
 }
+
+Enter number of rows: 2
+Enter number of columns: 2
+Enter elements of the matrix:
+2
+3
+
+4
+5
+Transpose of the matrix:
+2 4 
+3 5 
+
+
+=== Code Execution Successful ===
