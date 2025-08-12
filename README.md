@@ -14,6 +14,7 @@ To study and implement **multidimensional arrays** in C++ for various operations
 A **multidimensional array** is an array of arrays. The most common type is the 2D array, which can be visualized as a table with rows and columns.  
 
 🛠️ Programs Implemented
+
 1️⃣ Compare Elements of First Row to Second Row
 
 Description:
@@ -162,14 +163,21 @@ Basic logic building with conditions and loops.
 🖥️ Sample Output for Comparison Program
 
 Enter number of rows: 2
+
 Enter number of columns: 2
+
 Enter two numbers for first row: 4 6
+
 Enter two numbers for second row: 7 6
+
 First element in row 2 is greater
+
 Second elements are equal
 
 Enter number of rows: 3
+
 Enter number of columns: 3
+
 First matrix:
 3 4 2
 1 3 5
