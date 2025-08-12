@@ -80,9 +80,6 @@ Sum element at [i][j] = First matrix [i][j] + Second matrix [i][j].
 
 Algorithm:
 
-markdown
-Copy
-Edit
 1. Read r, c.
 2. Input first matrix A.
 3. Input second matrix B.
@@ -149,7 +146,9 @@ Algorithm:
 2. Input matrix A.
 3. For each i, j → transpose[j][i] = A[i][j]
 4. Print transpose matrix.
+   
 📌 Summary
+
 This experiment demonstrated:
 
 How to declare and use 2D arrays in C++.
