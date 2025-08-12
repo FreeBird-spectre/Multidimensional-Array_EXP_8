@@ -23,7 +23,6 @@ int main()
         }
     }
 
-    // Input second matrix
     cout << "Enter elements of second matrix:\n";
     for (int i = 0; i < r; i++) {
     for (int j = 0; j < c; j++) {
@@ -39,7 +38,7 @@ int main()
             } 
             else 
             {
-                sum[i][j] = 0; // non-diagonal set to 0
+                sum[i][j] = 0; // non-diagonal is not applicable or possible
             }
         }
     }
